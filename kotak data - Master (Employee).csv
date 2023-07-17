@@ -1,0 +1,338 @@
+,,,,,,,,,,,,,,,
+user_name,email,phone_number,year_of_birth,intervention,is_hr,is_employee,eid,level,date_of_offer,date_of_joining,status,marital_status,gender,branch,salary
+A,A@mail.com,5295935614,1937,School Coordination Dept,FALSE,TRUE,8,Project Head,NA,"1 Jan, 2007",Active,unmarried,female,Bangalore,114280
+B,B@mail.com,2417816047,1894,Finance/Trust,FALSE,TRUE,41,Senior Manager,NA,"1 Nov, 2007",Retired,married,female,Mumbai,385055
+C,C@mail.com,8594914453,1876,Health,FALSE,TRUE,79,Senior Coordinator,NA,"1 Aug, 2008",Active,unmarried,male,Mumbai,767876
+D,D@mail.com,4970979749,1753,Unnati,FALSE,TRUE,82,Senior Coordinator,NA,"1 Oct, 2008",Active,married,female,Bangalore,843129
+E',E'@mail.com,3136079558,1887,Volunteering,FALSE,TRUE,86,Manager,NA,"5 Dec, 2008",Active,unmarried,female,Mumbai,288686
+F,F@mail.com,3599352363,1928,Parvarish,FALSE,TRUE,89,Senior Manager,NA,"7 Apr, 2009",Active,unmarried,male,Pune,833859
+G,G@mail.com,1505081450,1941,Health,FALSE,TRUE,91,Senior Coordinator,NA,"15 Apr, 2009",Active,unmarried,female,Pune,632249
+H,H@mail.com,2927185821,1719,Parvarish,FALSE,TRUE,94,Senior Assistant Manager,NA,"1 Jun, 2009",Active,unmarried,male,Mumbai,99225
+I,I@mail.com,1461359789,1798,Umang,FALSE,TRUE,107,Manager,NA,"27 Jul, 2009",Active,unmarried,female,Delhi,866689
+J,J@mail.com,6026670829,1921,Volunteering,FALSE,TRUE,131,Manager,NA,"1 May, 2010",Active,unmarried,male,Mumbai,996109
+K,K@mail.com,3487186642,1996,Author: Transferred from Udaan to SCD wef 1Apr20 School Coordination Dept,FALSE,TRUE,166,Senior Coordinator,NA,"1 Apr, 2011",Active,unmarried,male,Mumbai,679868
+L,L@mail.com,8278519732,1894,Umang,FALSE,TRUE,189,Assistant Manager,NA,"1 Jul, 2011",Active,unmarried,female,Bangalore,75694
+M,M@mail.com,9188048429,1969,School Coordination Dept,FALSE,TRUE,195,Senior Coordinator,NA,"11 Jul, 2011",Resigned,unmarried,female,Mumbai,756675
+N,N@mail.com,3430666601,1745,Excel,FALSE,TRUE,197,Coordinator,NA,"14 Jul, 2011",Resigned,unmarried,male,Pune,798545
+O,O@mail.com,4123250856,1862,HR & Admin,FALSE,TRUE,229,Senior Officer,NA,"13 Feb, 2012",Active,unmarried,female,Pune,137167
+P,P@mail.com,8060500679,1919,Parvarish,FALSE,TRUE,234,Trainee Coordinator,NA,"1 Mar, 2012",Active,unmarried,male,Delhi,459952
+Q,Q@mail.com,5298352001,1907,Unnati,FALSE,TRUE,239,Senior Officer,NA,"7 May, 2012",Active,unmarried,male,Bangalore,670603
+R,R@mail.com,4481114401,1842,To be effective from 01st April 2021 -Aishwarya Abhijeet Chalke Centrailsed Content Team,FALSE,TRUE,240,Senior Assistant Manager,NA,"7 May, 2012",Active,married,female,Bangalore,151454
+S,S@mail.com,9828220745,1875,Whole School Turn Around Project,FALSE,TRUE,244,Senior Assistant Manager,"12 May, 2012","15 May, 2012",Active,unmarried,female,Bangalore,508569
+T,T@mail.com,4970693259,1987,Parvarish,FALSE,TRUE,245,Senior Assistant Manager,NA,"16 May, 2012",Unknown,married,male,Mumbai,227118
+U,U@mail.com,5382578871,1888,Parvarish,FALSE,TRUE,246,Senior Assistant Manager,NA,"16 May, 2012",Unknown,married,female,Delhi,449004
+V,V@mail.com,7336553045,1846,Umang,FALSE,TRUE,249,Senior Officer,NA,"28 May, 2012",Active,unmarried,male,Mumbai,992344
+W,W@mail.com,3046910057,1966,Umang,FALSE,TRUE,253,Assistant Manager,NA,"1 Jun, 2012",Active,married,female,Bangalore,464426
+X,X@mail.com,4008733949,1703,Excel,FALSE,TRUE,274,Senior Officer,NA,"13 Aug, 2012",Active,unmarried,female,Delhi,333144
+Y,Y@mail.com,3417441677,1861,School Coordination Dept,FALSE,TRUE,277,Senior Coordinator,"29 Aug, 2012","3 Sep, 2012",Active,unmarried,female,Mumbai,158348
+Z,Z@mail.com,6103150687,1925,Health,FALSE,TRUE,285,Senior Officer,NA,"1 Oct, 2012",Active,unmarried,male,Mumbai,317115
+AA,AA@mail.com,3064930554,1801,Umang,FALSE,TRUE,292,Assistant Manager,NA,"19 Nov, 2012",Active,married,female,Pune,730854
+AB,AB@mail.com,5951067368,1864,Finance/Trust,FALSE,TRUE,296,Assistant Manager,NA,"1 Jan, 2013",Retired,unmarried,male,Bangalore,700510
+AC,AC@mail.com,5362715217,1804,Health,FALSE,TRUE,299,Senior Manager,"5 Feb, 2013","1 Mar, 2013",Resigned,married,female,Mumbai,283566
+AD,AD@mail.com,1757927428,1984,Research,FALSE,TRUE,302,Senior Project Head,"11 Feb, 2013","18 Apr, 2013",Active,unmarried,male,Bangalore,258199
+AE,AE@mail.com,9918635032,1777,Umang,FALSE,TRUE,304,Senior Officer,"22 May, 2013","27 May, 2013",Active,unmarried,male,Delhi,67646
+AF,AF@mail.com,8217479024,1787,Unnati,FALSE,TRUE,308,Senior Officer,"22 May, 2013","27 May, 2013",Resigned,married,female,Delhi,43872
+AG,AG@mail.com,4471266850,1776,Parvarish,FALSE,TRUE,314,Senior Assistant Manager,"25 Mar, 2013","1 Jun, 2013",Retired,unmarried,female,Delhi,821539
+AH,AH@mail.com,5240525734,1949,Umang,FALSE,TRUE,335,Senior Officer,"15 Jul, 2013","16 Jul, 2013",Active,married,male,Mumbai,852953
+AI,AI@mail.com,3831562396,1807,Excel,FALSE,TRUE,339,Senior Officer,NA,"25 Jul, 2013",Active,unmarried,female,Mumbai,774650
+AJ,AJ@mail.com,5352511949,1773,Guru,FALSE,TRUE,347,Coordinator,NA,"19 Aug, 2013",Active,unmarried,female,Mumbai,451750
+AK,AK@mail.com,2510196788,1702,Guru,FALSE,TRUE,349,Coordinator,NA,"2 Sep, 2013",Active,unmarried,female,Mumbai,254119
+AL,AL@mail.com,8375913896,1756,Parvarish,FALSE,TRUE,367,Senior Assistant Manager,NA,"16 Jan, 2014",Retired,unmarried,male,Bangalore,426755
+AM,AM@mail.com,2431743591,1704,IT,FALSE,TRUE,371,Manager,NA,"26 Feb, 2014",Active,married,male,Delhi,475730
+AN,AN@mail.com,2948014647,1769,Finance/Trust,FALSE,TRUE,374,Senior Officer,NA,"11 Mar, 2014",Active,unmarried,male,Delhi,531274
+AO,AO@mail.com,1716814099,1776,Excel,FALSE,TRUE,381,Manager,"13 May, 2014","19 May, 2014",Active,unmarried,male,Pune,171634
+AP,AP@mail.com,8469085993,1996,Digital Learning Solutions,FALSE,TRUE,386,Senior Assistant Manager,"23 Apr, 2014","19 May, 2014",Resigned,unmarried,female,Delhi,583487
+AQ,AQ@mail.com,9204334073,1842,Health,FALSE,TRUE,387,Senior Assistant Manager,NA,"19 May, 2014",Active,married,male,Delhi,433054
+AR,AR@mail.com,4906707524,1757,Umang,FALSE,TRUE,394,Senior Officer,NA,"26 May, 2014",Active,unmarried,female,Mumbai,636158
+AS,AS@mail.com,8740205204,1739,School Coordination Dept,FALSE,TRUE,395,Senior Officer,"29 Apr, 2014","26 May, 2014",Active,unmarried,male,Bangalore,29942
+AT,AT@mail.com,9311984600,1794,Umang,FALSE,TRUE,396,Senior Officer,NA,"26 May, 2014",Resigned,unmarried,male,Mumbai,611534
+AU,AU@mail.com,2596320641,1840,Umang,FALSE,TRUE,399,Senior Officer,NA,"26 May, 2014",Active,unmarried,female,Bangalore,452514
+AV,AV@mail.com,6635236219,1986,Umang,FALSE,TRUE,402,Senior Officer,NA,"26 May, 2014",Active,unmarried,female,Bangalore,653325
+AW,AW@mail.com,3080552069,1835,Umang,FALSE,TRUE,408,Senior Officer,NA,"2 Jun, 2014",Active,unmarried,male,Delhi,335881
+AX,AX@mail.com,3506967717,1808,Parvarish,FALSE,TRUE,413,Senior Assistant Manager,"22 May, 2014","3 Jun, 2014",Active,unmarried,male,Mumbai,366111
+AY,AY@mail.com,1870024489,1779,Digital Learning Solutions,FALSE,TRUE,427,Coordinator,"17 Jun, 2014","26 Jun, 2014",Active,unmarried,female,Delhi,294064
+AZ,AZ@mail.com,6336452686,1707,Digital Learning Solutions,FALSE,TRUE,429,Senior Coordinator,NA,"1 Jul, 2014",Retired,unmarried,female,Mumbai,451135
+AAA,AAA@mail.com,3234139569,1828,Author: Transferred from Udaan to Excel wef 17 Feb 2020 Excel,FALSE,TRUE,434,Senior Officer,NA,"21 Jul, 2014",Active,unmarried,male,Mumbai,687439
+AAE,AAE@mail.com,4773504167,1967,Umang,FALSE,TRUE,440,Senior Officer,NA,"4 Aug, 2014",Active,unmarried,female,Bangalore,498540
+AAB,AAB@mail.com,2022036668,1794,Parvarish,FALSE,TRUE,446,Senior Officer,NA,"8 Sep, 2014",Active,unmarried,female,Delhi,288287
+AAC,AAC@mail.com,3355778365,1750,HR & Admin,FALSE,TRUE,458,Senior Officer,NA,"20 Nov, 2014",Active,unmarried,female,Mumbai,551813
+AAD,AAD@mail.com,5304366636,1780,Umang,FALSE,TRUE,471,Senior Officer,"23 Jan, 2015","27 Jan, 2015",Resigned,unmarried,male,Pune,346124
+AAE,AAE@mail.com,6965397888,1719,School Coordination Dept,FALSE,TRUE,481,Coordinator,"17 Feb, 2015","16 Mar, 2015",Active,married,female,Bangalore,200113
+AAF,AAF@mail.com,4421839555,1779,HR & Admin,FALSE,TRUE,487,Coordinator,NA,"13 Apr, 2015",Active,unmarried,female,Pune,462760
+AAEA,AAEA@mail.com,9569859188,1731,Umang,FALSE,TRUE,489,Manager,"26 Feb, 2015","28 Apr, 2015",Active,unmarried,male,Mumbai,332581
+AAF,AAF@mail.com,7159160383,1978,Lead 1,FALSE,TRUE,490,Senior Officer,NA,"28 Apr, 2015",Active,unmarried,female,Mumbai,229881
+AAH,AAH@mail.com,1995845485,1898,Author: Transferred from Udaan to Guru wef 1 Feb 2020 Guru,FALSE,TRUE,494,Senior Officer,"30 Apr, 2015","4 May, 2015",Active,unmarried,male,Mumbai,862422
+AAI,AAI@mail.com,5746363886,1976,Whole School Turn Around Project,FALSE,TRUE,497,Senior Manager,NA,"4 May, 2015",Active,married,male,Mumbai,278735
+AAK,AAK@mail.com,2209582775,1925,Umang,FALSE,TRUE,498,Assistant Manager,NA,"11 May, 2015",Active,unmarried,female,Mumbai,114001
+AAL,AAL@mail.com,1880761829,1996,Health,FALSE,TRUE,502,Assistant Manager,"25 Apr, 2015","18 May, 2015",Unknown,unmarried,female,Bangalore,45415
+AAE,AAE@mail.com,4069223557,1917,Umang,FALSE,TRUE,514,Senior Officer,"30 Apr, 2015","22 May, 2015",Active,unmarried,female,Mumbai,517387
+AAP,AAP@mail.com,7570877154,1821,Umang,FALSE,TRUE,521,Senior Officer,NA,"22 May, 2015",Active,unmarried,female,Delhi,70287
+AAN,AAN@mail.com,4039413677,1946,Digital Learning Solutions,FALSE,TRUE,524,Senior Coordinator,NA,"25 May, 2015",Active,unmarried,male,Mumbai,180328
+AAM,AAM@mail.com,1653801495,1992,Health,FALSE,TRUE,560,Senior Officer,NA,"22 Jun, 2015",Active,unmarried,male,Delhi,549019
+AAB,AAB@mail.com,8985027688,1949,Unnati,FALSE,TRUE,566,Senior Coordinator,NA,"29 Jun, 2015",Active,unmarried,female,Pune,678839
+AAC,AAC@mail.com,2522899253,1994,Guru,FALSE,TRUE,574,Senior Officer,NA,"2 Jul, 2015",Active,unmarried,female,Delhi,464403
+AAV,AAV@mail.com,8437612974,1814,Finance/Trust,FALSE,TRUE,575,Chief Executive Officer,"30 Mar, 2015","6 Jul, 2015",Active,unmarried,female,Mumbai,625039
+AAX,AAX@mail.com,2427454998,1787,School Coordination Dept,FALSE,TRUE,576,Senior Coordinator,NA,"6 Jul, 2015",Active,married,female,Mumbai,224920
+AAZ,AAZ@mail.com,8755286944,1999,Author: Transferred from Udaan to Health wef 1Apr20 Health,FALSE,TRUE,579,Senior Officer,NA,"8 Jul, 2015",Active,unmarried,female,Pune,713250
+AALA,AALA@mail.com,7547627442,1986,Unnati,FALSE,TRUE,589,Senior Manager,NA,"20 Jul, 2015",Unknown,unmarried,female,Delhi,311457
+AAK,AAK@mail.com,4048323809,1797,Research,FALSE,TRUE,592,Coordinator,"7 Jul, 2015","20 Jul, 2015",Active,unmarried,female,Delhi,335395
+AAJA,AAJA@mail.com,6200611015,1903,Umang,FALSE,TRUE,594,Senior Officer,"15 Jul, 2015","20 Jul, 2015",Active,unmarried,male,Delhi,169753
+AAH,AAH@mail.com,3295384700,1999,School Coordination Dept,FALSE,TRUE,601,Senior Coordinator,"13 Jul, 2015","3 Aug, 2015",Active,married,female,Mumbai,350195
+AAG,AAG@mail.com,5659512727,1880,Unnati,FALSE,TRUE,604,Coordinator,NA,"3 Aug, 2015",Active,unmarried,female,Pune,41278
+AAF,AAF@mail.com,6695635182,1767,Parvarish,FALSE,TRUE,609,Senior Officer,NA,"10 Aug, 2015",Active,unmarried,male,Delhi,132616
+AAD,AAD@mail.com,8193166398,1794,Umang,FALSE,TRUE,612,Senior Officer,"12 Aug, 2015","17 Aug, 2015",Active,unmarried,male,Bangalore,681047
+AAS,AAS@mail.com,8942871492,1935,Health,FALSE,TRUE,617,Coordinator,NA,"1 Sep, 2015",Active,married,male,Mumbai,103250
+AAAP,AAAP@mail.com,3454056934,1835,Volunteering,FALSE,TRUE,621,Assistant Manager,"14 Sep, 2015","15 Sep, 2015",Active,married,female,Mumbai,140317
+AAO,AAO@mail.com,5606021670,1757,School Coordination Dept,FALSE,TRUE,628,Senior Officer,"5 Oct, 2015","6 Oct, 2015",Active,unmarried,female,Mumbai,409308
+AAIU,AAIU@mail.com,3904008294,1890,Lead 1,FALSE,TRUE,640,Manager,NA,"9 Nov, 2015",Unknown,married,female,Bangalore,826601
+AAY,AAY@mail.com,6473985994,1732,School Coordination Dept,FALSE,TRUE,646,Coordinator,"24 Oct, 2015","1 Dec, 2015",Active,married,female,Bangalore,19376
+AAT,AAT@mail.com,3082141797,1947,Digital Learning Solutions,FALSE,TRUE,649,Senior Officer,NA,"1 Dec, 2015",Unknown,unmarried,female,Delhi,50557
+AARA,AARA@mail.com,6367878735,1934,Excel,FALSE,TRUE,655,Senior Officer,"22 Dec, 2015","28 Dec, 2015",Active,unmarried,male,Mumbai,22903
+AAE,AAE@mail.com,4839173676,1867,Excel,FALSE,TRUE,656,Assistant Manager,"22 Dec, 2015","1 Jan, 2016",Active,unmarried,male,Mumbai,110285
+AAW,AAW@mail.com,3412116403,1735,Author: Transferred from Udaan to Health wef 1Apr20 Health,FALSE,TRUE,663,Senior Officer,"9 Feb, 2016","15 Feb, 2016",Unknown,unmarried,female,Delhi,799370
+AAQQ,AAQQ@mail.com,9668487625,1841,Author: Transferred from udaan to hr 1Apr20 Digital Learning Solutions,FALSE,TRUE,664,Assistant Manager,"13 Feb, 2016","15 Feb, 2016",Active,unmarried,female,Mumbai,730520
+BBA,BBA@mail.com,7998572224,1945,Parvarish,FALSE,TRUE,669,Senior Officer,"12 Mar, 2016","16 Mar, 2016",Active,unmarried,male,Delhi,223286
+BBM,BBM@mail.com,8822097812,1997,Digital Learning Solutions,FALSE,TRUE,679,Senior Officer,"4 Apr, 2016","2 May, 2016",Active,unmarried,female,Delhi,728142
+BBN,BBN@mail.com,1500765963,1732,Author: Transferred from Udaan to Research wef 1Apr20 Research,FALSE,TRUE,683,Senior Officer,NA,"1 Jun, 2016",Active,unmarried,male,Bangalore,13640
+BBB,BBB@mail.com,9052836735,1713,Lead 2,FALSE,TRUE,686,Assistant Manager,NA,"1 Jun, 2016",Active,unmarried,female,Bangalore,333193
+BBV,BBV@mail.com,7646051803,1809,Health,FALSE,TRUE,695,Senior Coordinator,NA,"13 Jun, 2016",Active,unmarried,female,Delhi,954294
+BBX,BBX@mail.com,9471764428,1835,Umang,FALSE,TRUE,696,Senior Officer,NA,"14 Jun, 2016",Active,unmarried,male,Mumbai,26701
+BBC,BBC@mail.com,4945733821,1987,IT,FALSE,TRUE,701,Senior Officer,NA,"21 Jun, 2016",Active,unmarried,male,Mumbai,366518
+BBZ,BBZ@mail.com,8769374962,1737,Umang,FALSE,TRUE,704,Senior Officer,"27 Jun, 2016","1 Jul, 2016",Active,unmarried,male,Delhi,404820
+BBL,BBL@mail.com,8256970389,1894,Health,FALSE,TRUE,706,Senior Officer,NA,"1 Jul, 2016",Active,unmarried,male,Bangalore,432545
+BBK,BBK@mail.com,1420626615,1764,Umang,FALSE,TRUE,710,Coordinator,NA,"12 Jul, 2016",Active,unmarried,male,Mumbai,83176
+BBJ,BBJ@mail.com,4028305464,1704,Umang,FALSE,TRUE,718,Officer,"22 Jul, 2016","25 Jul, 2016",Active,unmarried,male,Pune,808317
+BBH,BBH@mail.com,7878991395,1701,IT,FALSE,TRUE,720,Coordinator,NA,"1 Aug, 2016",Active,unmarried,male,Mumbai,792313
+BBG,BBG@mail.com,4174189824,1967,Health,FALSE,TRUE,722,Officer,NA,"1 Aug, 2016",Active,unmarried,female,Mumbai,202966
+BBG,BBG@mail.com,8953494275,1844,Parvarish,FALSE,TRUE,724,Senior Coordinator,"15 Jul, 2016","2 Aug, 2016",Active,unmarried,female,Delhi,284556
+BBF,BBF@mail.com,9631038004,1821,Parvarish,FALSE,TRUE,726,Senior Coordinator,"23 Jul, 2016","5 Aug, 2016",Active,married,female,Mumbai,977721
+BBD,BBD@mail.com,9941308774,1904,Health,FALSE,TRUE,728,Senior Assistant Manager,NA,"8 Aug, 2016",Active,unmarried,male,Delhi,595558
+BBS,BBS@mail.com,1927967573,1845,Umang,FALSE,TRUE,729,Officer,"2 Aug, 2016","8 Aug, 2016",Active,married,female,Delhi,658501
+BBA,BBA@mail.com,5325602829,1744,Research,FALSE,TRUE,732,Manager,"9 Aug, 2016","16 Aug, 2016",Active,unmarried,male,Delhi,159795
+BBP,BBP@mail.com,2777996621,1911,Centrailsed Content Team,FALSE,TRUE,738,Coordinator,"2 Aug, 2016","1 Sep, 2016",Active,unmarried,male,Delhi,147453
+BBO,BBO@mail.com,4014584992,1741,Finance/Trust,FALSE,TRUE,743,Officer,NA,"16 Sep, 2016",Active,unmarried,female,Pune,424083
+BBI,BBI@mail.com,8423704635,1950,Umang,FALSE,TRUE,748,Senior Officer,"21 Sep, 2016","1 Oct, 2016",Active,unmarried,female,Delhi,741800
+BBU,BBU@mail.com,6640602889,1726,Finance/Trust,FALSE,TRUE,749,Senior Officer,"1 Oct, 2016","3 Oct, 2016",Active,unmarried,female,Delhi,766003
+BBY,BBY@mail.com,4727622159,1721,School Coordination Dept,FALSE,TRUE,753,Coordinator,"5 Oct, 2016","10 Oct, 2016",Active,married,male,Mumbai,653892
+BBT,BBT@mail.com,2101562889,1928,Parvarish,FALSE,TRUE,768,Senior Coordinator,"8 Dec, 2016","2 Jan, 2017",Active,unmarried,female,Delhi,85428
+BBT,BBT@mail.com,8171516319,1833,Unnati,FALSE,TRUE,769,Coordinator,"6 Dec, 2016","6 Jan, 2017",Active,married,female,Delhi,129154
+BBR,BBR@mail.com,9470540385,1741,Umang,FALSE,TRUE,773,Senior Officer,"18 Jan, 2017","23 Jan, 2017",Active,unmarried,female,Pune,166073
+BBE,BBE@mail.com,5190983950,1878,Umang,FALSE,TRUE,778,Senior Officer,"10 Feb, 2017","13 Feb, 2017",Active,unmarried,female,Delhi,56070
+BBW,BBW@mail.com,8440369092,1863,Excel,FALSE,TRUE,780,Coordinator,"15 Feb, 2017","23 Feb, 2017",Unknown,married,male,Bangalore,695115
+BBQ,BBQ@mail.com,9060220665,1894,Umang,FALSE,TRUE,784,Senior Officer,"10 Mar, 2017","31 Mar, 2017",Unknown,unmarried,male,Bangalore,51662
+CM,CM@mail.com,1391160429,1950,Umang,FALSE,TRUE,789,Senior Officer,NA,"3 May, 2017",Active,unmarried,female,Delhi,281330
+CNC,CNC@mail.com,1814356802,1869,Guru,FALSE,TRUE,790,Coordinator,NA,"3 May, 2017",Active,unmarried,male,Mumbai,731599
+CB,CB@mail.com,6260515641,1970,Whole School Turn Around Project,FALSE,TRUE,799,Coordinator,NA,"14 Jun, 2017",Active,unmarried,male,Mumbai,565413
+CV,CV@mail.com,7572812518,1811,Unnati,FALSE,TRUE,804,Coordinator,"29 Jun, 2017","29 Jun, 2017",Active,married,male,Pune,135412
+CX,CX@mail.com,4420403346,1810,Umang,FALSE,TRUE,812,Officer,"21 Jul, 2017","24 Jul, 2017",Active,married,male,Delhi,448602
+CZ,CZ@mail.com,4762831762,2000,Umang,FALSE,TRUE,813,Officer,"20 Jul, 2017","24 Jul, 2017",Active,married,male,Delhi,96157
+CP,CP@mail.com,4340493808,1975,Excel,FALSE,TRUE,816,Officer,"9 Aug, 2017","10 Aug, 2017",Active,unmarried,female,Bangalore,291986
+CO,CO@mail.com,9061010026,1982,Umang,FALSE,TRUE,818,Officer,"21 Aug, 2017","22 Aug, 2017",Active,unmarried,male,Mumbai,171595
+CI,CI@mail.com,6130189989,1844,Excel,FALSE,TRUE,830,Coordinator,"29 Sep, 2017","3 Oct, 2017",Active,unmarried,female,Delhi,806715
+CUC,CUC@mail.com,5026601836,1806,Lead 1,FALSE,TRUE,831,Manager,NA,"5 Oct, 2017",Active,married,male,Mumbai,589710
+CY,CY@mail.com,3170936081,1846,Health,FALSE,TRUE,832,Senior Officer,NA,"9 Oct, 2017",Active,unmarried,female,Delhi,264178
+CT,CT@mail.com,8443021288,1928,Nirmaan,FALSE,TRUE,837,Coordinator,NA,"24 Oct, 2017",Active,unmarried,female,Pune,928637
+CRC,CRC@mail.com,8351548261,1914,Lead 1,FALSE,TRUE,846,Coordinator,NA,"4 Dec, 2017",Active,unmarried,female,Mumbai,952568
+CRT,CRT@mail.com,5088088484,1967,Unnati,FALSE,TRUE,849,Officer,"5 Dec, 2007","12 Dec, 2017",Active,unmarried,female,Pune,986074
+CE,CE@mail.com,7601394169,1712,Health,FALSE,TRUE,852,Officer,NA,"21 Dec, 2017",Active,unmarried,female,Delhi,195986
+CW,CW@mail.com,5505726537,1757,Finance/Trust,FALSE,TRUE,859,Manager,NA,"22 Jan, 2018",Unknown,unmarried,female,Mumbai,551911
+CQ,CQ@mail.com,4521891778,1701,Finance/Trust,FALSE,TRUE,862,Chief Financial Officer,NA,"2 Feb, 2018",Active,unmarried,female,Pune,681925
+XZW,XZW@mail.com,2169528509,1851,Health,FALSE,TRUE,864,Officer,NA,"5 Mar, 2018",Active,unmarried,female,Bangalore,413331
+WET,WET@mail.com,6696123793,1808,Lead 1,FALSE,TRUE,865,Assistant Manager,NA,"12 Mar, 2018",Active,unmarried,female,Pune,170797
+SFG,SFG@mail.com,2557776891,1842,Digital Learning Solutions,FALSE,TRUE,868,Officer,NA,"2 Apr, 2018",Active,married,male,Bangalore,782182
+AWR,AWR@mail.com,4308625571,1905,Digital Learning Solutions,FALSE,TRUE,869,Officer,NA,"2 Apr, 2018",Active,unmarried,female,Bangalore,964588
+AWR,AWR@mail.com,9327033233,1779,"Lead1&2, Guru, Umang, Digital Learning Solutions, Centrailsed Content Team, Excel",FALSE,TRUE,870,Project Head,"1 Feb, 2018","2 Apr, 2018",Active,married,female,Mumbai,380486
+CGGH,CGGH@mail.com,5878209935,1958,Health,FALSE,TRUE,876,Officer,NA,"14 May, 2018",Active,unmarried,female,Pune,663642
+"Author: Old name - Rakhi Manaji Mane, New name - Akshara change w.e.f Nov 2019 WRT","Author: Old name - Rakhi Manaji Mane, New name - Akshara change w.e.f Nov 2019 WRT@mail.com",2671470955,1966,Digital Learning Solutions,FALSE,TRUE,877,Officer,NA,"28 May, 2018",Active,unmarried,male,Mumbai,861742
+AFGT/,AFGT/@mail.com,1374103309,1907,Parvarish,FALSE,TRUE,881,Officer,"19 Mar, 2018","1 Jun, 2018",Active,unmarried,female,Mumbai,237968
+AFH,AFH@mail.com,7168442980,1997,Umang,FALSE,TRUE,884,Officer,"30 Apr, 2018","4 Jun, 2018",Active,unmarried,female,Mumbai,350915
+ARGTV,ARGTV@mail.com,1824117824,1865,Unnati,FALSE,TRUE,885,Coordinator,NA,"4 Jun, 2018",Active,unmarried,male,Pune,100109
+AEWQS,AEWQS@mail.com,4135321413,1941,Umang,FALSE,TRUE,888,Officer,"9 Jun, 2018","11 Jun, 2018",Active,unmarried,female,Pune,237201
+AFGIK,AFGIK@mail.com,2589961825,1792,Umang,FALSE,TRUE,891,Coordinator,NA,"18 Jun, 2018",Active,married,female,Delhi,467015
+DFG,DFG@mail.com,9048551422,1829,Parvarish,FALSE,TRUE,892,Officer,"23 Jun, 2018","25 Jun, 2018",Unknown,unmarried,male,Bangalore,475517
+SWU,SWU@mail.com,1615671137,1740,Dept change wef 01st April 2021 -Aishwarya Abhijeet Chalke Digital Learning Solutions,FALSE,TRUE,893,Coordinator,NA,"2 Jul, 2018",Active,unmarried,female,Bangalore,651131
+WDTT,WDTT@mail.com,2849332118,1762,Research,FALSE,TRUE,896,Assistant Manager,NA,"10 Jul, 2018",Active,unmarried,female,Bangalore,560051
+AFGJ,AFGJ@mail.com,8197344148,1941,Umang,FALSE,TRUE,897,Officer,"6 Jul, 2018","11 Jul, 2018",Retired,unmarried,female,Bangalore,12111
+FVGTH,FVGTH@mail.com,8736452427,1884,Volunteering,FALSE,TRUE,902,Officer,"2 Aug, 2018","6 Aug, 2018",Active,unmarried,male,Delhi,507969
+RTY,RTY@mail.com,4574632523,1999,Communications,FALSE,TRUE,903,Coordinator,"3 Jul, 2018","6 Aug, 2018",Active,unmarried,female,Mumbai,707586
+YRI,YRI@mail.com,7708927812,1914,Lead 1,FALSE,TRUE,910,Coordinator,NA,"10 Sep, 2018",Active,unmarried,male,Mumbai,940499
+DTR,DTR@mail.com,4865718980,1708,Excel,FALSE,TRUE,913,Senior Assistant Manager,"15 Sep, 2018","25 Sep, 2018",Resigned,unmarried,female,Mumbai,709930
+WERT,WERT@mail.com,8600313666,1955,Unnati,FALSE,TRUE,916,Officer,"13 Jun, 2018","1 Oct, 2018",Active,married,female,Bangalore,821219
+POTRE,POTRE@mail.com,8685386858,1751,Guru,FALSE,TRUE,922,Coordinator,NA,"6 Oct, 2018",Active,unmarried,female,Mumbai,568165
+WSKT,WSKT@mail.com,9385657743,1943,Umang,FALSE,TRUE,923,Officer,"4 Oct, 2018","8 Oct, 2018",Active,unmarried,female,Pune,106630
+BOTR,BOTR@mail.com,9682467655,1869,Unnati,FALSE,TRUE,929,Officer,"31 Oct, 2018","1 Nov, 2018",Active,unmarried,female,Bangalore,665256
+POBJ,POBJ@mail.com,7525922110,1924,Health,FALSE,TRUE,930,Officer,NA,"1 Nov, 2018",Active,unmarried,male,Bangalore,528224
+STYVN,STYVN@mail.com,2275933756,1758,HR & Admin,FALSE,TRUE,932,Coordinator,NA,"12 Nov, 2018",Active,unmarried,female,Mumbai,87997
+WQX,WQX@mail.com,1567695523,1780,Guru,FALSE,TRUE,933,Coordinator,NA,"19 Nov, 2018",Active,unmarried,male,Delhi,609681
+PLMB,PLMB@mail.com,9174791656,1985,Digital Learning Solutions,FALSE,TRUE,936,Coordinator,"21 Nov, 2018","26 Nov, 2018",Active,unmarried,female,Delhi,864509
+VTUI,VTUI@mail.com,9099095447,1816,Digital Learning Solutions,FALSE,TRUE,939,Officer,"1 Dec, 2018","3 Dec, 2018",Active,unmarried,female,Delhi,461049
+ASDTB,ASDTB@mail.com,3909805805,1769,Umang,FALSE,TRUE,940,Coordinator,"24 Nov, 2018","3 Dec, 2018",Active,married,female,Mumbai,584422
+CFBGTJH,CFBGTJH@mail.com,8337423463,1773,Umang,FALSE,TRUE,946,Senior Officer,"21 Nov, 2018","11 Dec, 2018",Active,married,male,Mumbai,27120
+AQWRDERG,AQWRDERG@mail.com,3002602851,1790,Finance/Trust,FALSE,TRUE,947,Coordinator,NA,"11 Dec, 2018",Retired,married,male,Delhi,104119
+XFGTHB,XFGTHB@mail.com,9827394677,1812,Umang,FALSE,TRUE,951,Officer,"28 Dec, 2018","2 Jan, 2019",Active,married,female,Delhi,730694
+SEGFDRFB,SEGFDRFB@mail.com,9486090097,1726,Lead 1,FALSE,TRUE,953,Assistant Manager,NA,"7 Jan, 2019",Active,married,female,Pune,569756
+ASEGFDRFB,ASEGFDRFB@mail.com,8648139452,1868,Health,FALSE,TRUE,957,Officer,NA,"28 Jan, 2019",Active,unmarried,female,Delhi,758413
+ZDGSVRDTH,ZDGSVRDTH@mail.com,3788076886,1998,Excel,FALSE,TRUE,959,Officer,"2 Feb, 2019","4 Feb, 2019",Active,married,female,Mumbai,739008
+ZASGFREH,ZASGFREH@mail.com,1375742717,1735,Digital Learning Solutions,FALSE,TRUE,964,Senior Assistant Manager,NA,"11 Feb, 2019",Active,unmarried,female,Delhi,105484
+XFBHYTKJ,XFBHYTKJ@mail.com,3929229533,1858,Umang,FALSE,TRUE,965,Officer,NA,"11 Feb, 2019",Active,unmarried,female,Pune,819118
+ZFBHYTJM,ZFBHYTJM@mail.com,2794954308,1714,Lead 1,FALSE,TRUE,968,Senior Coordinator,NA,"25 Feb, 2019",Active,unmarried,male,Delhi,233553
+ZSFRGH6RT,ZSFRGH6RT@mail.com,1897852577,1723,Parvarish,FALSE,TRUE,973,Coordinator,NA,"4 Mar, 2019",Active,unmarried,female,Bangalore,388193
+Name changed as per aadhar card on 09th March 2021. Old name: Neha Dayanand Sable -Aishwarya Abhijeet Chalke ZDFSHY,Name changed as per aadhar card on 09th March 2021. Old name: Neha Dayanand Sable -Aishwarya Abhijeet Chalke ZDFSHY@mail.com,6276867283,1760,Unnati,FALSE,TRUE,974,Officer,"8 Mar, 2019","11 Mar, 2019",Active,unmarried,male,Delhi,88510
+XFDHYT,XFDHYT@mail.com,2430258407,1913,School Coordination Dept,FALSE,TRUE,976,Officer,"13 Mar, 2019","18 Mar, 2019",Retired,unmarried,female,Mumbai,974245
+SRG,SRG@mail.com,5911772761,1917,Nirmaan,FALSE,TRUE,977,Senior Manager,NA,"25 Mar, 2019",Active,unmarried,male,Bangalore,502023
+XDBHTR,XDBHTR@mail.com,5589632326,1955,HR & Admin,FALSE,TRUE,978,Manager,NA,"26 Mar, 2019",Active,married,female,Mumbai,976057
+SGRE,SGRE@mail.com,1828734011,1990,Umang,FALSE,TRUE,979,Officer,"24 Jan, 2018","1 Apr, 2019",Active,unmarried,male,Bangalore,244423
+FGNJ,FGNJ@mail.com,9409924317,1980,Unnati,FALSE,TRUE,980,Officer,"29 Mar, 2019","1 Apr, 2019",Active,unmarried,female,Bangalore,91804
+DFNH,DFNH@mail.com,9133585686,1880,Lead 2,FALSE,TRUE,984,Coordinator,"5 Apr, 2019","8 Apr, 2019",Active,unmarried,female,Mumbai,269468
+Name change effective from 1Nov2021-old name birendra kumar jaiswar -sanjivani thorat FGNMJ,Name change effective from 1Nov2021-old name birendra kumar jaiswar -sanjivani thorat FGNMJ@mail.com,5165097267,1768,Unnati,FALSE,TRUE,986,Officer,"12 Apr, 2019","15 Apr, 2019",Active,married,female,Delhi,618920
+CGFNJ,CGFNJ@mail.com,1385097481,1942,Centrailsed Content Team,FALSE,TRUE,992,Officer,"20 Mar, 2019","15 Apr, 2019",Active,unmarried,female,Mumbai,442928
+YKT,YKT@mail.com,6778440297,1792,Unnati,FALSE,TRUE,994,Officer,"17 Apr, 2019","22 Apr, 2019",Retired,married,male,Delhi,346974
+DYTJR,DYTJR@mail.com,6096661613,1931,Lead 1,FALSE,TRUE,998,Coordinator,"22 Apr, 2019","23 Apr, 2019",Active,unmarried,female,Mumbai,501249
+ETDNJR,ETDNJR@mail.com,7468909670,1922,Umang,FALSE,TRUE,1003,Officer,"25 Apr, 2019","6 May, 2019",Active,unmarried,female,Mumbai,317468
+DGTHJCGNM,DGTHJCGNM@mail.com,9137508530,1970,Guru,FALSE,TRUE,1004,Coordinator,"20 Dec, 2018","6 May, 2019",Active,unmarried,female,Mumbai,260522
+Author: Name change from mayuri salve to mayuri ajinkya kasabe wef Jan 2020 RTJ,Author: Name change from mayuri salve to mayuri ajinkya kasabe wef Jan 2020 RTJ@mail.com,9021934159,1949,Finance/Trust,FALSE,TRUE,1005,Manager,"22 Apr, 2019","13 May, 2019",Unknown,unmarried,female,Mumbai,59976
+DFCFN,DFCFN@mail.com,5753077632,1766,Unnati,FALSE,TRUE,1006,Manager,"10 May, 2019","13 May, 2019",Unknown,unmarried,female,Bangalore,406105
+DGNJ,DGNJ@mail.com,1683593324,1830,Umang,FALSE,TRUE,1012,Officer,"9 May, 2019","13 May, 2019",Retired,unmarried,female,Delhi,766071
+DFGM,DFGM@mail.com,3699831793,1713,Umang,FALSE,TRUE,1013,Officer,"10 May, 2019","13 May, 2019",Active,unmarried,male,Mumbai,853408
+FCGM,FCGM@mail.com,9352030918,1718,Umang,FALSE,TRUE,1015,Officer,"9 May, 2019","13 May, 2019",Unknown,unmarried,female,Delhi,804918
+FCGM,FCGM@mail.com,7861483712,1812,Lead 1,FALSE,TRUE,1016,Coordinator,"10 May, 2019","13 May, 2019",Active,unmarried,female,Pune,759382
+DTHYAEF,DTHYAEF@mail.com,9025582067,1811,Lead 2,FALSE,TRUE,1022,Senior Officer,"25 Apr, 2019","21 May, 2019",Active,unmarried,female,Delhi,660292
+SFBHT,SFBHT@mail.com,8072846763,1843,Umang,FALSE,TRUE,1026,Senior Manager,"30 Apr, 2019","1 Jun, 2019",Retired,unmarried,male,Pune,883123
+HBXFB,HBXFB@mail.com,9301309889,1915,Lead 1,FALSE,TRUE,1028,Coordinator,"25 Mar, 2019","1 Jun, 2019",Active,married,female,Delhi,36580
+YRJ,YRJ@mail.com,2838589440,1755,Lead 1,FALSE,TRUE,1029,Coordinator,"25 Mar, 2019","1 Jun, 2019",Active,married,male,Mumbai,793703
+DFNYJ,DFNYJ@mail.com,7204270914,1831,Guru,FALSE,TRUE,1031,Coordinator,"4 May, 2019","6 Jun, 2019",Unknown,unmarried,male,Bangalore,53775
+XFRGT,XFRGT@mail.com,2864629855,1778,Lead 1,FALSE,TRUE,1033,Coordinator,"8 May, 2019","10 Jun, 2019",Active,unmarried,female,Mumbai,882168
+FGN,FGN@mail.com,8133599363,1871,Unnati,FALSE,TRUE,1034,Officer,"8 Jun, 2019","10 Jun, 2019",Active,unmarried,female,Delhi,361833
+FHHYMKJTY,FHHYMKJTY@mail.com,5926734613,1945,Guru,FALSE,TRUE,1035,Coordinator,"4 Jun, 2019","11 Jun, 2019",Active,unmarried,female,Delhi,985606
+GDTJ,GDTJ@mail.com,8263486062,1889,Guru,FALSE,TRUE,1036,Coordinator,"10 Jun, 2019","13 Jun, 2019",Active,unmarried,female,Delhi,185311
+DERY,DERY@mail.com,8216583755,1955,Lead 1,FALSE,TRUE,1041,Coordinator,"25 Mar, 2019","15 Jun, 2019",Active,unmarried,female,Mumbai,689906
+XFDBH,XFDBH@mail.com,5975354564,1839,Lead 1,FALSE,TRUE,1042,Coordinator,"25 Mar, 2019","15 Jun, 2019",Resigned,unmarried,female,Delhi,697998
+ERHY,ERHY@mail.com,8374251915,1863,Umang,FALSE,TRUE,1045,Officer,"14 Jun, 2019","17 Jun, 2019",Resigned,unmarried,female,Delhi,79431
+AQ2R,AQ2R@mail.com,7283420883,1839,Umang,FALSE,TRUE,1050,Officer,"22 Jun, 2019","24 Jun, 2019",Active,unmarried,male,Mumbai,506160
+FGNFGMN,FGNFGMN@mail.com,5979621346,1988,Guru,FALSE,TRUE,1055,Coordinator,"26 Apr, 2019","24 Jun, 2019",Active,unmarried,female,Delhi,179111
+DNTYFJH,DNTYFJH@mail.com,7396000919,1897,Guru,FALSE,TRUE,1058,Coordinator,"11 Apr, 2019","1 Jul, 2019",Active,unmarried,male,Mumbai,500934
+DRGBHRTJH,DRGBHRTJH@mail.com,8926061033,1920,Digital Learning Solutions,FALSE,TRUE,1059,Coordinator,"2 May, 2019","1 Jul, 2019",Active,married,male,Pune,604778
+AWQR32,AWQR32@mail.com,9925194178,1968,Guru,FALSE,TRUE,1061,Coordinator,"20 Jun, 2019","3 Jul, 2019",Retired,unmarried,male,Delhi,626694
+SW3T5H,SW3T5H@mail.com,2133494742,1895,Lead 1,FALSE,TRUE,1062,Coordinator,"24 May, 2019","3 Jul, 2019",Active,unmarried,male,Delhi,380934
+GKMY8I6TJ,GKMY8I6TJ@mail.com,7882267231,1814,Umang,FALSE,TRUE,1064,Senior Officer,"5 Jul, 2019","8 Jul, 2019",Active,unmarried,female,Pune,490606
+DFGRDNB,DFGRDNB@mail.com,1815366113,1986,Guru,FALSE,TRUE,1067,Coordinator,"19 Jul, 2019","15 Jul, 2019",Active,unmarried,male,Bangalore,100977
+DSGBETRH,DSGBETRH@mail.com,8127562602,1969,Parvarish,FALSE,TRUE,1068,Senior Officer,"4 Jul, 2019","15 Jul, 2019",Active,unmarried,male,Delhi,760069
+DTHGFN,DTHGFN@mail.com,5722312850,1704,Unnati,FALSE,TRUE,1072,Assistant Manager,"24 Jul, 2019","29 Jul, 2019",Active,unmarried,female,Delhi,790516
+FBSRHER,FBSRHER@mail.com,4264146373,1791,Guru,FALSE,TRUE,1073,Coordinator,"26 Jul, 2019","1 Aug, 2019",Active,unmarried,female,Delhi,51732
+HBXFB,HBXFB@mail.com,6089029128,1821,Unnati,FALSE,TRUE,1079,Senior Officer,"6 Aug, 2019","12 Aug, 2019",Active,married,female,Bangalore,691446
+DFHD,DFHD@mail.com,2849296384,1995,School Coordination Dept,FALSE,TRUE,1083,Officer,"7 Aug, 2019","19 Aug, 2019",Active,married,female,Delhi,549012
+BDXFH,BDXFH@mail.com,2190969137,1787,Guru,FALSE,TRUE,1086,Coordinator,NA,"4 Sep, 2019",Active,unmarried,female,Mumbai,87224
+DFRH,DFRH@mail.com,7091563898,1850,Guru,FALSE,TRUE,1087,Coordinator,NA,"4 Sep, 2019",Active,unmarried,male,Bangalore,471485
+BDFN,BDFN@mail.com,2655820126,1982,Parvarish,FALSE,TRUE,1089,Officer,"9 Sep, 2019","6 Sep, 2019",Retired,unmarried,female,Bangalore,742301
+DXSB,DXSB@mail.com,3813516364,1961,Guru,FALSE,TRUE,1091,Coordinator,NA,"12 Sep, 2019",Active,unmarried,female,Delhi,149809
+HD,HD@mail.com,9761561558,1874,Unnati,FALSE,TRUE,1097,Officer,NA,"14 Oct, 2019",Active,married,male,Mumbai,52395
+ZDXVRH,ZDXVRH@mail.com,6431087892,1905,Umang,FALSE,TRUE,1104,Senior Officer,"9 Nov, 2019","11 Nov, 2019",Active,unmarried,male,Pune,635391
+CNY,CNY@mail.com,1851641398,1899,HR & Admin,FALSE,TRUE,1105,Senior Officer,"7 Nov, 2019","11 Nov, 2019",Active,unmarried,female,Mumbai,453361
+JZDBTRH,JZDBTRH@mail.com,1551906231,1738,Health,FALSE,TRUE,1106,Officer,NA,"15 Nov, 2019",Active,unmarried,male,Mumbai,205341
+XVNYGHYM,XVNYGHYM@mail.com,9808200882,1887,Guru,FALSE,TRUE,1107,Coordinator,"16 Nov, 2019","18 Nov, 2019",Retired,unmarried,female,Bangalore,963492
+TYK,TYK@mail.com,1962212886,1904,Umang,FALSE,TRUE,1111,Officer,"22 Nov, 2019","25 Nov, 2019",Active,unmarried,female,Mumbai,896376
+DTHJ,DTHJ@mail.com,6924532466,1785,Unnati,FALSE,TRUE,1115,Senior Officer,"13 Dec, 2019","16 Dec, 2019",Active,unmarried,male,Mumbai,965607
+YHY,YHY@mail.com,4522697448,1925,Lead 1,FALSE,TRUE,1118,Senior Coordinator,"24 Dec, 2019","6 Jan, 2020",Active,unmarried,male,Mumbai,646404
+DFNJTJ,DFNJTJ@mail.com,8317274559,1768,Volunteering,FALSE,TRUE,1119,Officer,"31 Dec, 2019","6 Jan, 2020",Active,unmarried,male,Mumbai,786929
+CDHT,CDHT@mail.com,8691742584,1868,IT,FALSE,TRUE,1120,Coordinator,"8 Jan, 2020","13 Jan, 2020",Active,unmarried,female,Delhi,680419
+SRHH,SRHH@mail.com,2388132483,1911,Unnati,FALSE,TRUE,1123,Officer,"6 Jan, 2020","13 Jan, 2020",Active,unmarried,female,Delhi,937268
+CGFM,CGFM@mail.com,3342247223,1862,Unnati,FALSE,TRUE,1128,Assistant Manager,"17 Jan, 2020","20 Jan, 2020",Active,married,female,Pune,237650
+W4TGBG,W4TGBG@mail.com,1624955012,1700,School Coordination Dept,FALSE,TRUE,1130,Assistant Manager,"23 Jan, 2020","27 Jan, 2020",Active,unmarried,female,Bangalore,782232
+SRHFGMN,SRHFGMN@mail.com,6294863839,1832,Unnati,FALSE,TRUE,1131,Officer,"29 Jan, 2020","3 Feb, 2020",Retired,unmarried,female,Bangalore,835452
+DFNTYKJ,DFNTYKJ@mail.com,6286401749,1820,Umang,FALSE,TRUE,1132,Officer,"28 Jan, 2020","3 Feb, 2020",Resigned,married,female,Bangalore,501020
+SBHTH,SBHTH@mail.com,8959206370,1917,Umang,FALSE,TRUE,1136,Officer,"25 Feb, 2020","2 Mar, 2020",Active,married,female,Delhi,421298
+DFRNJTR,DFRNJTR@mail.com,5004507958,1715,Digital Learning Solutions,FALSE,TRUE,1137,Officer,"29 Feb, 2020","2 Mar, 2020",Active,unmarried,female,Mumbai,427846
+SHYGM,SHYGM@mail.com,7565915264,1887,Lead 1,FALSE,TRUE,1138,Coordinator,"21 Feb, 2020","2 Mar, 2020",Active,married,female,Mumbai,798054
+DMHGM,DMHGM@mail.com,7243691439,1805,Unnati,FALSE,TRUE,1139,Senior Officer,"25 Feb, 2020","2 Mar, 2020",Active,unmarried,female,Bangalore,167245
+DJN NFVYJ,DJN NFVYJ@mail.com,4512724288,1805,Unnati,FALSE,TRUE,1141,Officer,"20 Feb, 2020","2 Mar, 2020",Active,unmarried,male,Delhi,488187
+DTJFJ,DTJFJ@mail.com,1699416030,1747,Unnati,FALSE,TRUE,1142,Officer,"7 Mar, 2020","9 Mar, 2020",Active,unmarried,female,Mumbai,223771
+SRHYEH,SRHYEH@mail.com,6298439151,1918,Unnati,FALSE,TRUE,1144,Senior Officer,"13 Feb, 2020","14 Mar, 2020",Resigned,unmarried,female,Pune,465015
+SERGTRSG,SERGTRSG@mail.com,7798237984,1989,Unnati,FALSE,TRUE,1147,Officer,"25 Feb, 2020","1 Apr, 2020",Active,unmarried,female,Mumbai,883028
+SRHTFGN,SRHTFGN@mail.com,8462956563,1974,Whole School Turn Around Project,FALSE,TRUE,1148,Coordinator,"22 Mar, 2020","1 Apr, 2020",Active,unmarried,male,Delhi,771978
+SRGYEYTH,SRGYEYTH@mail.com,9786746875,1914,School Coordination Dept,FALSE,TRUE,1150,Manager,"7 Mar, 2020","1 Apr, 2020",Unknown,unmarried,female,Bangalore,148183
+ZSDBGRDFB,ZSDBGRDFB@mail.com,3646166446,1841,Unnati,FALSE,TRUE,1152,Assistant Manager,"18 Mar, 2020","21 Apr, 2020",Active,unmarried,female,Delhi,984160
+ZSGERHG,ZSGERHG@mail.com,8711638189,1892,Unnati,FALSE,TRUE,1153,Officer,"24 Mar, 2020","21 Apr, 2020",Retired,unmarried,male,Delhi,803364
+ZSDBGDTHN,ZSDBGDTHN@mail.com,1618891017,1730,Digital Learning Solutions,FALSE,TRUE,1156,Officer,"27 Mar, 2020","21 Apr, 2020",Active,unmarried,female,Delhi,488079
+WGERH,WGERH@mail.com,3430734864,1842,Finance/Trust,FALSE,TRUE,1157,Manager,"4 Feb, 2020","1 Sep, 2020",Retired,married,female,Pune,174446
+DGNGHM,DGNGHM@mail.com,5066357610,1969,Finance/Trust,FALSE,TRUE,1158,Officer,"1 Apr, 2020","5 Oct, 2020",Active,married,female,Bangalore,980684
+DBHDHCG,DBHDHCG@mail.com,9722931705,1739,Finance/Trust,FALSE,TRUE,1159,Officer,"13 Mar, 2020","5 Oct, 2020",Active,unmarried,female,Delhi,810181
+DFBHDRH,DFBHDRH@mail.com,7059638128,1935,Umang,FALSE,TRUE,1160,Senior Officer,"6 Jan, 2020","5 Oct, 2020",Active,married,female,Bangalore,874480
+RTN,RTN@mail.com,9315929241,1898,Lead 1 Lead 2 Guru,FALSE,TRUE,1163,Project Head,"16 Feb, 2021","22 Feb, 2021",Active,unmarried,female,Delhi,71296
+DHNDNFGC,DHNDNFGC@mail.com,5025514072,1793,HR & Admin,FALSE,TRUE,1165,Assistant Manager,"4 Mar, 2021","8 Mar, 2021",Active,unmarried,female,Mumbai,61979
+DFNFGNGF,DFNFGNGF@mail.com,3795815803,1890,Lead 2,FALSE,TRUE,1166,Coordinator,"8 Mar, 2020","1 Apr, 2021",Active,married,female,Mumbai,175941
+DFNBFDGNGF,DFNBFDGNGF@mail.com,2739718518,1713,Lead 2,FALSE,TRUE,1167,Coordinator,"8 Mar, 2020","1 Apr, 2021",Active,unmarried,female,Mumbai,466855
+DBDNDDXFBFDN,DBDNDDXFBFDN@mail.com,8065779683,1863,Lead 2,FALSE,TRUE,1168,Coordinator,"8 Mar, 2020","1 Apr, 2021",Active,married,female,Delhi,292555
+DHHTD,DHHTD@mail.com,6421548880,1894,Lead 2,FALSE,TRUE,1170,Coordinator,"8 Mar, 2020","1 Apr, 2021",Active,unmarried,male,Mumbai,295164
+DFGESG,DFGESG@mail.com,5257893817,1734,Lead 2,FALSE,TRUE,1171,Coordinator,"8 Mar, 2020","1 Apr, 2021",Active,unmarried,female,Delhi,852090
+CFBFGN,CFBFGN@mail.com,8730978557,1919,Lead 2,FALSE,TRUE,1172,Coordinator,"8 Mar, 2020","1 Apr, 2021",Active,unmarried,female,Pune,615229
+DFBDN,DFBDN@mail.com,2445104041,1712,Lead 2,FALSE,TRUE,1173,Coordinator,"8 Mar, 2020","1 Apr, 2021",Active,unmarried,male,Pune,353536
+CVNFGNG,CVNFGNG@mail.com,3412743311,1879,Lead 2,FALSE,TRUE,1174,Coordinator,"8 Mar, 2020","1 Apr, 2021",Retired,unmarried,male,Bangalore,107577
+FCBFDB,FCBFDB@mail.com,8218392388,1976,Guru,FALSE,TRUE,1175,Coordinator,"8 Mar, 2020","1 Apr, 2021",Resigned,unmarried,female,Delhi,118166
+GFNGFN,GFNGFN@mail.com,5494686939,1951,Guru,FALSE,TRUE,1178,Coordinator,"8 Mar, 2020","1 Apr, 2021",Active,unmarried,female,Mumbai,984101
+SDVSD,SDVSD@mail.com,9402371965,1731,Unnati,FALSE,TRUE,1180,Coordinator,"22 Mar, 2021","1 Apr, 2021",Active,unmarried,male,Delhi,439224
+XFV,XFV@mail.com,3119969865,1937,Umang,FALSE,TRUE,1181,Senior Officer,"8 Mar, 2020","12 Apr, 2021",Active,married,female,Mumbai,751199
+PSISFN,PSISFN@mail.com,9131022082,1985,Volunteering,FALSE,TRUE,1182,Coordinator,"21 Mar, 2021","12 Apr, 2021",Active,unmarried,female,Delhi,105248
+DF,DF@mail.com,4485987385,1734,Unnati,FALSE,TRUE,1183,Officer,"28 Apr, 2021","3 May, 2021",Retired,unmarried,female,Mumbai,322187
+WEFJNEFJ,WEFJNEFJ@mail.com,6330177996,1706,Unnati,FALSE,TRUE,1184,Officer,"28 Apr, 2021","3 May, 2021",Active,married,male,Bangalore,454479
+Kjwd,Kjwd@mail.com,2206977433,1750,Digital Learning Solutions,FALSE,TRUE,1186,Project Head,"19 Apr, 2021","3 May, 2021",Active,unmarried,female,Mumbai,37304
+fbnvc n,fbnvc n@mail.com,2608276513,1773,Lead 1,FALSE,TRUE,1188,Coordinator,"7 May, 2021","10 May, 2021",Active,unmarried,female,Pune,17363
+GJSF,GJSF@mail.com,6258106234,1851,Lead 2,FALSE,TRUE,1189,Coordinator,"7 May, 2021","10 May, 2021",Active,married,female,Delhi,521958
+V DLBKOPVJI,V DLBKOPVJI@mail.com,2587403641,1920,Lead 2,FALSE,TRUE,1190,Coordinator,"7 May, 2021","10 May, 2021",Active,unmarried,female,Pune,878854
+WAD WEFJWQI,WAD WEFJWQI@mail.com,1444006609,1979,Lead 2,FALSE,TRUE,1191,Coordinator,"20 May, 2021","1 Jun, 2021",Active,married,female,Pune,777764
+V MDNVEWJN,V MDNVEWJN@mail.com,7536892016,1910,Unnati,FALSE,TRUE,1193,Manager,"28 Apr, 2021","3 Jun, 2021",Active,unmarried,female,Mumbai,316682
+DFVNBSJVKN,DFVNBSJVKN@mail.com,2799983509,1753,Finance/Trust,FALSE,TRUE,1194,Manager,"27 Apr, 2021","8 Jun, 2021",Active,unmarried,female,Bangalore,322757
+FBJNV JK,FBJNV JK@mail.com,2256641242,1846,Research,FALSE,TRUE,1196,Project Head,"17 Jun, 2021","21 Jun, 2021",Active,unmarried,female,Mumbai,48114
+JKBJKQWDA,JKBJKQWDA@mail.com,2222613966,1888,Whole School Turn Around Project,FALSE,TRUE,1197,Officer,"16 Jun, 2021","21 Jun, 2021",Active,unmarried,female,Mumbai,404128
+N JKBLVNKLVNK,N JKBLVNKLVNK@mail.com,6869232308,1736,Unnati,FALSE,TRUE,1199,Senior Officer,"14 Jun, 2021","21 Jun, 2021",Active,married,male,Mumbai,112676
+KEFUIG,KEFUIG@mail.com,1741629765,1923,HR & Admin,FALSE,TRUE,1200,Senior Manager,"17 Jun, 2021","5 Jul, 2021",Active,unmarried,female,Bangalore,524681
+IIFGI,IIFGI@mail.com,9216562518,1965,Digital Learning Solutions,FALSE,TRUE,1201,Management Trainee,"29 May, 2021","5 Jul, 2021",Retired,unmarried,male,Mumbai,371279
+HJDVHVH,HJDVHVH@mail.com,2158806053,1864,Excel,FALSE,TRUE,1203,Senior Manager,"9 Jul, 2021","12 Jul, 2021",Active,married,male,Mumbai,85109
+HJSVHEBV,HJSVHEBV@mail.com,6538651182,1843,Umang,FALSE,TRUE,1205,Senior Officer,"15 Jun, 2021","19 Jul, 2021",Active,unmarried,female,Pune,571981
+SHVEU,SHVEU@mail.com,8563197947,1854,Umang,FALSE,TRUE,1206,Senior Officer,"12 Jul, 2021","19 Jul, 2021",Active,unmarried,female,Pune,533414
+EWGV,EWGV@mail.com,3457723457,1821,Umang,FALSE,TRUE,1207,Manager,"2 Jul, 2021","19 Jul, 2021",Active,unmarried,male,Bangalore,325888
+WAWFEGV,WAWFEGV@mail.com,2364064452,1701,Excel,FALSE,TRUE,1208,Senior Officer,"22 Jul, 2021","2 Aug, 2021",Active,unmarried,male,Delhi,117162
+WWQFBWFBA,WWQFBWFBA@mail.com,6324005557,1837,Excel,FALSE,TRUE,1209,Coordinator,"30 Jul, 2021","2 Aug, 2021",Active,married,male,Mumbai,734435
+AQWFRGFD,AQWFRGFD@mail.com,7835369477,1950,Finance/Trust,FALSE,TRUE,1210,Senior Officer,"30 Jul, 2021","2 Aug, 2021",Active,married,male,Delhi,888950
+EFWGR,EFWGR@mail.com,7672948136,1750,Lead 1,FALSE,TRUE,1211,Coordinator,"27 Jul, 2021","2 Aug, 2021",Active,unmarried,female,Delhi,435290
+AEFGFBBF,AEFGFBBF@mail.com,9412918082,1716,Centrailsed Content Team,FALSE,TRUE,1213,Manager,"20 Jul, 2021","16 Aug, 2021",Resigned,unmarried,female,Delhi,721736
+ESFRGFBF,ESFRGFBF@mail.com,4702761009,1700,Umang,FALSE,TRUE,1215,Assistant Manager,"17 Aug, 2021","26 Aug, 2021",Active,unmarried,male,Bangalore,541700
+EGFGDF,EGFGDF@mail.com,7289085875,1738,Excel,FALSE,TRUE,1216,Assistant Manager,"26 Jul, 2021","1 Sep, 2021",Active,unmarried,female,Mumbai,533518
+EFEWGRGFDB,EFEWGRGFDB@mail.com,7520984929,1789,HR & Admin,FALSE,TRUE,1218,Coordinator,"21 Aug, 2021","20 Sep, 2021",Active,unmarried,female,Delhi,730001
+AWFEGSRB,AWFEGSRB@mail.com,4435839689,1982,Unnati,FALSE,TRUE,1219,Coordinator,"17 Aug, 2021","20 Sep, 2021",Active,unmarried,female,Delhi,696224
+AWWFER,AWWFER@mail.com,9127994171,1846,Unnati,FALSE,TRUE,1220,Officer,"14 Sep, 2021","20 Sep, 2021",Active,unmarried,female,Pune,257986
+EEFDDFB,EEFDDFB@mail.com,8539687424,1952,Unnati,FALSE,TRUE,1221,Officer,"17 Sep, 2021","20 Sep, 2021",Resigned,unmarried,female,Delhi,836177
+ESVDFB,ESVDFB@mail.com,2605751087,1994,Guru,FALSE,TRUE,1222,Senior Assistant Manager,"25 Aug, 2021","20 Sep, 2021",Active,unmarried,female,Bangalore,550678
+WFAEFEGVDFV,WFAEFEGVDFV@mail.com,9528518143,1926,School Coordination Dept,FALSE,TRUE,1223,Coordinator,"14 Sep, 2021","20 Sep, 2021",Active,unmarried,female,Bangalore,423874
+SEGDFBGB,SEGDFBGB@mail.com,7964285176,1872,Finance/Trust,FALSE,TRUE,1224,Manager,"20 Sep, 2021","27 Sep, 2021",Active,unmarried,male,Delhi,827688
+SVDFBDFBQA,SVDFBDFBQA@mail.com,4740810848,1764,Digital Learning Solutions,FALSE,TRUE,1225,Senior Officer,"20 Sep, 2021","4 Oct, 2021",Active,unmarried,female,Mumbai,823274
+EEBF,EEBF@mail.com,2466459285,1877,Unnati,FALSE,TRUE,1226,Senior Officer,"29 Sep, 2021","11 Oct, 2021",Active,unmarried,female,Delhi,262852
+GRDF,GRDF@mail.com,4681865141,1987,Guru,FALSE,TRUE,1227,Assistant Manager,"7 Oct, 2021","11 Oct, 2021",Active,unmarried,female,Bangalore,260767
+GVGRSGDF,GVGRSGDF@mail.com,6887662913,1882,Unnati,FALSE,TRUE,1228,Senior Officer,"15 Oct, 2021","18 Oct, 2021",Active,unmarried,male,Mumbai,732266
+B DFBFDB,B DFBFDB@mail.com,4894737005,1961,Unnati,FALSE,TRUE,1229,Senior Officer,"20 Oct, 2021","22 Oct, 2021",Active,unmarried,female,Delhi,545485
+B DFBFDB,B DFBFDB@mail.com,3836276966,1942,Excel,FALSE,TRUE,1230,Officer,"29 Oct, 2021","1 Nov, 2021",Active,unmarried,female,Bangalore,993439
+SDVSDV,SDVSDV@mail.com,4445924008,1952,Excel,FALSE,TRUE,1231,Officer,"30 Oct, 2021","1 Nov, 2021",Active,unmarried,male,Mumbai,675571
+DFBG,DFBG@mail.com,4773201562,1898,Guru,FALSE,TRUE,1234,Senior Coordinator,"12 Nov, 2021","6 Dec, 2021",Retired,unmarried,female,Pune,88341
+DXDFFBGDN,DXDFFBGDN@mail.com,7342694968,1745,Unnati,FALSE,TRUE,1235,Coordinator,"27 Nov, 2021","9 Dec, 2021",Active,unmarried,female,Pune,273291
+B DFBFDB,B DFBFDB@mail.com,4421131551,1940,Unnati,FALSE,TRUE,1236,Senior Officer,"10 Dec, 2021","13 Dec, 2021",Active,unmarried,male,Mumbai,886042
+FDB,FDB@mail.com,9578459580,1858,School Coordination Dept,FALSE,TRUE,1237,Officer,"17 Dec, 2021","20 Dec, 2021",Active,unmarried,male,Mumbai,290013
+DFBG CV,DFBG CV@mail.com,8116122391,1950,Unnati,FALSE,TRUE,1238,Senior Officer,"21 Dec, 2021","22 Dec, 2021",Active,unmarried,female,Delhi,690874
+WEFRGDFV,WEFRGDFV@mail.com,2034273857,1844,Umang,FALSE,TRUE,1239,Officer,"27 Dec, 2021","3 Jan, 2022",Unknown,married,male,Delhi,163593
+"IOLKJH,MHJ","IOLKJH,MHJ@mail.com",3575822295,1957,Umang,FALSE,TRUE,1240,Officer,"27 Dec, 2021","3 Jan, 2022",Active,unmarried,male,Delhi,546287
+SWERGWD,SWERGWD@mail.com,2217673616,1946,School Coordination Dept,FALSE,TRUE,1241,Coordinator,"7 Dec, 2021","3 Jan, 2022",Retired,unmarried,female,Delhi,664960
+EWFEWFSG,EWFEWFSG@mail.com,6336105249,1867,Digital Learning Solutions,FALSE,TRUE,1242,Manager,"2 Dec, 2021","4 Jan, 2022",Active,unmarried,female,Mumbai,749320
+.K.KJMYJ,.K.KJMYJ@mail.com,6718437721,1825,Excel,FALSE,TRUE,1243,Coordinator,"31 Dec, 2021","1 Feb, 2022",Retired,unmarried,female,Mumbai,860723
+KLUILO,KLUILO@mail.com,1545086860,1948,Unnati,FALSE,TRUE,1244,Senior Officer,"27 Jan, 2022","1 Feb, 2022",Active,married,female,Mumbai,869815
+"HJ,JH","HJ,JH@mail.com",1347080906,1708,Excel,FALSE,TRUE,1245,Senior Coordinator,"15 Jan, 2022","1 Feb, 2022",Retired,unmarried,female,Mumbai,918634
+FTRH65JWERD,FTRH65JWERD@mail.com,8744408957,1707,Communications,FALSE,TRUE,1246,Senior Assistant Manager,"31 Jan, 2022","3 Feb, 2022",Active,unmarried,female,Pune,440930
+HRTJNHX,HRTJNHX@mail.com,3198589718,1872,School Coordination Dept,FALSE,TRUE,1247,Coordinator,"3 Feb, 2022","14 Feb, 2022",Active,unmarried,female,Bangalore,975314
+FDBGFNRTG,FDBGFNRTG@mail.com,7881572692,1964,Lead 1,FALSE,TRUE,1248,Assistant Manager,"10 Feb, 2022","16 Feb, 2022",Unknown,unmarried,female,Delhi,334136
+SDVFDB,SDVFDB@mail.com,9766880000,1708,Unnati,FALSE,TRUE,1249,Coordinator,"3 Feb, 2022","21 Feb, 2022",Active,unmarried,female,Mumbai,49803
+AFGEWRGFB,AFGEWRGFB@mail.com,4087113224,1910,School Coordination Dept,FALSE,TRUE,1250,Coordinator,"11 Feb, 2022","21 Feb, 2022",Active,unmarried,male,Pune,703746
+AEFTERG,AEFTERG@mail.com,7528448941,1811,HR & Admin,TRUE,TRUE,1251,Manager,"21 Feb, 2022","2 Mar, 2022",Active,unmarried,male,Pune,344418
+SFEWGDFBF,SFEWGDFBF@mail.com,6250785213,1948,Unnati,TRUE,TRUE,1252,Officer,"28 Feb, 2022","2 Mar, 2022",Active,unmarried,female,Bangalore,851357
+WERFWEFDS,WERFWEFDS@mail.com,9361273717,1936,Excel,TRUE,TRUE,1253,Senior Assistant Manager,"31 Jan, 2022","2 Mar, 2022",Active,unmarried,female,Delhi,379799
+AGESDVXCV,AGESDVXCV@mail.com,3404215547,1729,Excel,TRUE,TRUE,1254,Senior Officer,"26 Feb, 2022","2 Mar, 2022",Active,married,male,Mumbai,822498
+SDBHRDFA,SDBHRDFA@mail.com,2638641925,1811,Excel,TRUE,TRUE,1255,Assistant Manager,"31 Jan, 2022","3 Mar, 2022",Retired,unmarried,female,Mumbai,895860
+AQGFASVDSZ,AQGFASVDSZ@mail.com,4696141513,1781,Digital Learning Solutions,TRUE,TRUE,1256,Senior Coordinator,"3 Feb, 2022","7 Mar, 2022",Active,unmarried,male,Delhi,531682
+EWFSDBFXC,EWFSDBFXC@mail.com,5010686626,1735,Excel,TRUE,TRUE,1257,Manager,"17 Jan, 2022","15 Mar, 2022",Active,unmarried,female,Delhi,32892
+AWQFEDSBX,AWQFEDSBX@mail.com,6330112844,1908,Unnati,TRUE,TRUE,1258,Senior Officer,"15 Mar, 2022","16 Mar, 2022",Active,married,male,Mumbai,133400
